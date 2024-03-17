@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Jay-Govind
+<h1 align="center">👋 Hi, I’m Jay Govind Kumar</h1>
+<h3 align="center">🌱 I’m currently learning Web Development and DSA</h3>
+
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Web Development and DSA
 - 💞️ I’m looking to collaborate on exciting and innovative projects that algn with my skills and interests.
 - 📫 How to reach me ...
 - 1. Linkedin - https://www.linkedin.com/in/govind-jay
