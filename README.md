@@ -1,14 +1,13 @@
 <h1 align="center">👋 Hi, I’m Jay Govind Kumar</h1>
 
-
 ## **Fun Facts** 🎈:
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" /><h4> 🌱 I’m currently learning Web Development and DSA</h4>
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<h4> 🌱 I’m currently learning Web Development and DSA</h4>
 <h4> 👀 I’m interested in Coding.</h4>
 <h4> 💬 Ask me about Web Development </h4>
 <h4> 🔭 I’m currently working on something cool!</h4>
 <h4> 💞️ I’m looking to collaborate on exciting and innovative projects that algn with my skills and interests.</h4>
-
 
 
 ## 📫 **How to reach me**...
@@ -40,9 +39,10 @@
 </a>
 
 ## Thanks for checking out my GitHub Profile! 🙏
-
+<br>
 
 <div class="footer-section">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Govind&show_icons=true&locale=en&layout=compact" alt="Jay-Govind" /></p>
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jay-Govind&show_icons=true&locale=en" alt="Jay-Govind" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Govind&" alt="Jay-Govind" /></p>
 </div>
