@@ -39,5 +39,10 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a>
 
-
 ## Thanks for checking out my GitHub Profile! 🙏
+
+
+<div class="footer-section">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jay-Govind&show_icons=true&locale=en&layout=compact" alt="Jay-Govind" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jay-Govind&show_icons=true&locale=en" alt="Jay-Govind" /></p>
+</div>
