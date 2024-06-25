@@ -29,6 +29,26 @@
 <br><br>
 
 <p align="center">
+  <h1 align="center">⚙️ Languages and Tools</h1>
+</p>
+<div>
+
+### Languages:
+| JS | C | Java |
+|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/> |
+
+
+### Environments
+
+| nodejs | Git | 
+|--------|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
+</div>
+
+<br><br>
+
+<p align="center">
   <h1 align="center">📫 How to reach me</h1>
 </p>
 
