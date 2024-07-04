@@ -89,7 +89,7 @@
   <h1 align="center">📫 Summary Of My Github Status</h1>
 </p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=Jay-Govind&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Jay-Govind&theme=onedark)](https://github.com/Jay-Govind/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
