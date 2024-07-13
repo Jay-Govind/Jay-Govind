@@ -126,6 +126,12 @@
 </p>
 
 
+<br><br>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31xknor52c6ks2ql37fbd44nabyq">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31xknor52c6ks2ql37fbd44nabyq" alt="Data Card for Spotify">
+</a>
+
 <p align="center">
   <h1 align="center">Thanks for checking out my GitHub Profile! 🙏</h1>
 </p>  
