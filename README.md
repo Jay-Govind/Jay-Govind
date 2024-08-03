@@ -72,29 +72,12 @@
 <br><br>
 
 <p align="center">
-  <h1 align="center">📫 How to reach me</h1>
+  <h1 align="center">📫 How to reach me 🌏</h1>
 </p>
 
 | Mail   | Linkedin | Twitter |
 |--------|----------|---------|
 | <a href="mailto:govind.iq@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/govind-jay"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/_JayGovind"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> |
-
-<br><br>
-
-<p align="center">
-  <h1 align="center">🌏 CONNECT WITH ME</h1>
-</p>
-
-<a href="https://www.instagram.com/devwithgovind"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@jaygovindofficial751"> 
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=61556260830301&mibextid=ZbWKwL"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
-</a>
-
 
 <br><br>
 
