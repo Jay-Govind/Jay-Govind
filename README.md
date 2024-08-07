@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jay+Govind+Kumar+😉;I'm+Self-taught+Programmer;I+am+a+Full+Stack+Developer;"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Jay+Govind+Kumar+😉;I'm+Self-taught+Programmer;I+am+a+Freelancer+💼;I+am+a+Full+Stack+Developer;I+am+Ex+B.S.D.M.+(KYP-LF);"></a>
 </h1>
 
 
@@ -18,6 +18,8 @@
 - 💬 Ask me about **Web Development**
   
 - 🔭 I’m currently working on something cool!
+
+- 💼 I’m a **Freelancer**
   
 - 👨‍💻 Hire Me as **Full Stack Developer**
   
