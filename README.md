@@ -75,9 +75,10 @@
   <h1 align="center">📫 How to reach me 🌏</h1>
 </p>
 
-| Mail   | Linkedin | Twitter |
-|--------|----------|---------|
-| <a href="mailto:govind.iq@outlook.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/govind-jay"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/_JayGovind"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> |
+| Mail   | Linkedin | Twitter | Linktree | 
+|--------|----------|---------|----------|
+| <a href="mailto:govind.iq@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/> </a> | <a  href="https://www.linkedin.com/in/govind-jay"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/> </a> | <a href="https://twitter.com/_JayGovind"> <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="twitter" alt="twitter" width="55" height="55"/> </a> | <a href="https://linktr.ee/jay_govind_kumar"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="linktree"  alt="linktree"/> </a> |
+ 
 
 <br><br>
 
